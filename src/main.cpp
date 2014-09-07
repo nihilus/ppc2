@@ -8,6 +8,7 @@
 
 #include <ida.hpp>
 #include <idp.hpp>
+#include <auto.hpp>
 #include <name.hpp>
 #include <bytes.hpp>
 #include <loader.hpp>
